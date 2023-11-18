@@ -13,9 +13,5 @@ firebase_core
 ```bash
 provider
 ```
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Google Sign-In – a one-click, secure, and seamless authentication method. 
+Effortlessly link your Google account for instant access across devices, ensuring a user-friendly and protected experience.
